@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devashish Kumar</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3><br>
-<img align="left" hight="600px" width="600px" src="https://www.webhopers.com/wp-content/uploads/2021/05/MERN-Stack-Development-Company.png">
+<img align="left" hight="700px" width="500px" src="https://www.webhopers.com/wp-content/uploads/2021/05/MERN-Stack-Development-Company.png">
 
 - 🔭 I’m currently working on **cloning Apollo 24*7**
 
