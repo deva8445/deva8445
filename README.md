@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Node.JS, React, Express.JS**
 
-- 📫 How to reach me **devashish.kumar8445@gmail.com**
 
 - 📄 Know about my experiences [check out my resume](https://drive.google.com/file/d/1eAXtZepSMAVR8_y2f8Yz_B3ppvtnMKMl/view?usp=sharing)
 
