@@ -27,5 +27,5 @@
 
 Reach me at:<br>
 [Linkedin](https://www.linkedin.com/in/kumar-deva/)<br>
-[devashish.kumar8445@gmail.com](mailto:devashish.kumar8445@gmail.com)
-
+[devashish.kumar8445@gmail.com](mailto:devashish.kumar8445@gmail.com)<br>
+[Blog](https://medium.com/@devashish.kumar8445/clone-of-minimalist-co-including-frontend-backend-8fcca8f7df74)
