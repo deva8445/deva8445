@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Full-Stack Developer** at **Jellyfish Technologies**
 
-- 🌱 I’m currently learning **MERN Stack web development**
+- 🌱 I’m have learned **MERN Stack web development**
 
 - 👯 I have worked on [cloning Minimalist](https://peaceful-euler-5df790.netlify.app/)
 
