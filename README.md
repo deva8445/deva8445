@@ -2,15 +2,15 @@
 <h3 align="center">A passionate full-stack web developer from India</h3><br>
 <img align="left" hight="700px" width="500px" src="https://www.webhopers.com/wp-content/uploads/2021/05/MERN-Stack-Development-Company.png">
 
-- 🔭 I’m currently working on **cloning Apollo 24*7**
+- 🔭 I’m currently working as **Full-Stack Developer** at **Jellyfish Technologies**
 
-- 🌱 I’m currently learning **MERN Stack web developement**
+- 🌱 I’m currently learning **MERN Stack web development**
 
 - 👯 I have worked on [cloning Minimalist](https://peaceful-euler-5df790.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [Minimalist - Clone](dev-ashish-1506.netlify.app)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Node.JS, React, Express.JS**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Node.JS, React, Angular, Express.JS**
 
 
 - 📄 Know about my experiences [check out my resume](https://drive.google.com/file/d/1eAXtZepSMAVR8_y2f8Yz_B3ppvtnMKMl/view?usp=sharing)
